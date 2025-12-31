@@ -45,17 +45,17 @@ Usage
 - Type greetings like hello, hi, or bye.
 - Ask questions such as what's your name? or how are you?.
 - Type quit to exit.
-📊 Performance Evaluation- Short inputs (10 chars): Comparable performance between Brute Force and KMP.
+- 📊 Performance Evaluation- Short inputs (10 chars): Comparable performance between Brute Force and KMP.
 - Medium inputs (100 chars): KMP shows ~58% improvement.
 - Long inputs (1000 chars): KMP achieves ~88% faster processing.
   Future Improvements- Add fuzzy matching for spelling variations.
 - Machine learning-based response generation.
 - Multi-language support.
 - Graphical User Interface (GUI).
-👨‍💻 Author Md. Lion Mia - B.Sc. in Computer Science and Engineering, Teesta University
+- 👨‍💻 Author: Md. Lion Mia - B.Sc. in Computer Science and Engineering, Teesta University
 - Competitive programmer & IT Support Specialist.
 - Email: rjleon.lk@gmail.com
-  References- Introduction to Algorithms – Cormen et al.
-- Knuth, Morris, Pratt (1977) – Fast Pattern Matching in Strings
-- Gusfield (1997) – Algorithms on Strings, Trees, and Sequences
+- References- Introduction to Algorithms – Cormen et al.
+  Knuth, Morris, Pratt (1977) – Fast Pattern Matching in Strings
+  Gusfield (1997) – Algorithms on Strings, Trees, and Sequences
 
