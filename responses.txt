@@ -1,0 +1,9 @@
+hello:Hello! How can I help you today?
+hi:Hi there! What can I do for you?
+how are you:I'm just a chatbot, but I'm functioning well!
+bye:Goodbye! Have a great day!
+thanks:You're welcome!
+name:I'm a simple string matching chatbot.
+help:I can respond to greetings, questions about my name, and more. Just try talking to me!
+weather:I don't have access to real-time weather data. Sorry!
+time:I don't have a clock, but you can check your device for the time.
