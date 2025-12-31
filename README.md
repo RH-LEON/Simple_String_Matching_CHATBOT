@@ -27,9 +27,14 @@ Knuth-Morris-Pratt (KMP)
 - **Space Complexity:** O(m)
 
 ---
-
 📂 Project Structure
-string-matching-chatbot/ │ ├── src/                     # Source code (C++) │   └── chatbot.cpp ├── responses.txt            # Keyword-response database ├── Project Report Final.pdf # Detailed project report ├── README.md                # Project documentation └── LICENSE                  # Optional license file
+string-matching-chatbot/  
+├── src/                      Source code (C++)  
+│   └── chatbot.cpp  
+├── responses.txt             Keyword-response database  
+├── Project Report Final.pdf  Detailed project report  
+├── README.md                 Project documentation  
+ 
 
 ---
 
